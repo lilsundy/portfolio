@@ -1,0 +1,33 @@
+body {
+     background-image: url('/img/yosemite_Minimalist.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 110% 140%;
+    background-position: top left;
+
+    -webkit-animation: mymove 5s; 
+    /* Chrome, Safari, Opera 
+    /*animation: mymove 5s forwards;*/
+    /*animation-fill-mode: forwards;*/
+/*}
+@-webkit-keyframes mymove {
+    75% {background-position: top left;}*/
+
+}
+@-webkit-keyframes mymove {
+
+    from {background-position: bottom right; background-size: 120% 150%; }
+    to {background-size: 110% 140%;}
+} 
+
+/*@keyframes mymove
+{
+    from {top:0px;}
+    to {top:200px;}
+}*/
+
+
+
+/*1090 kinggeorges post road suit 708 edison 
+6092875725*/
+`
